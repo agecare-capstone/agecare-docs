@@ -47,8 +47,11 @@ Docs/
 
 | Repositorio | Descripción | Stack Principal |
 | :--- | :--- | :--- |
-| [`Backend-API`](https://github.com/AgeCare-DUOC/Backend-API) | Backend oficial: API REST y WebSockets | FastAPI, Python 3.12, PostgreSQL, Azure |
-| [`Frontend-App`](https://github.com/AgeCare-DUOC/Frontend-App) | Frontend móvil y web multiplataforma | Flutter, Dart, Riverpod, Material 3 |
+| [`agecare-docs`](https://github.com/agecare-capstone/agecare-docs) | Este repositorio: documentación y evidencias académicas | — |
+| [`CapstoneAgecare`](https://github.com/agecare-capstone/CapstoneAgecare) | Frontend móvil y web multiplataforma | Flutter, Dart, Riverpod, Material 3 |
+| [`agecare-backend`](https://github.com/agecare-capstone/agecare-backend) | Backend: API REST | FastAPI, Python 3.12, PostgreSQL, Azure |
+
+Gestión del proyecto: Jira [capstoneagecare.atlassian.net](https://capstoneagecare.atlassian.net) (proyecto `DAC05`).
 
 
 ---
